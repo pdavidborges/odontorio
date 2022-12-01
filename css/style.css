@@ -1,0 +1,37 @@
+.nav-link{
+    color: #333333;
+}
+
+.container{
+    max-width: 1140px !important;
+}
+
+
+.bg-services{
+    background-image: url(../img/background.jpg);
+    background-size: cover;
+}
+
+#quem-somos, #contato{
+    margin-top: 100px;    
+}
+
+div{
+    scroll-margin-top: 80px;
+}
+
+textarea{
+    resize: none;
+}
+
+
+.carousel-indicators [data-bs-target]{
+    background-color: wheat;
+    /* width: 10px;
+    height: 10px;
+    border-radius: 50%;     */
+}
+
+#carouselExampleIndicators{
+    margin-top: 87px;
+}
